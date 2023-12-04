@@ -11,8 +11,11 @@ Insegurança em denunciar casos de violência (falta de anonimato).
 
 ### Expectativas
 Redução de violência nas escolas;
+
 Diminuição da evasão escolar;
+
 Melhor acompanhamento dos alunos por parte dos coordenadores e familiares;
+
 Melhor comunicação na comunidade escolar.
 
 ## Personas
