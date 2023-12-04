@@ -37,29 +37,29 @@ Insegurança em denunciar casos de violência (falta de anonimato).
 ### Marco 1
 
 #### Funcionalidades
--[ ] Sistema de login.
+- [ ] Sistema de login.
 
--[ ] Registrar um aluno.
+- [ ] Registrar um aluno.
 
--[ ] Modificar informações de um aluno.
+- [ ] Modificar informações de um aluno.
 
--[ ] Acompanhar informações do aluno.
+- [ ] Acompanhar informações do aluno.
 
--[ ] Registrar observações.
+- [ ] Registrar observações.
 
 ### Marco 2
 
 #### Funcionalidades
--[ ] Warnings para ações indevidas (faltas recorrentes, situação de briga etc).
+- [ ] Warnings para ações indevidas (faltas recorrentes, situação de briga etc).
 
--[ ] Sistema de score.
+- [ ] Sistema de score.
 
 ### Marco 3
 
 #### Funcionalidades
--[ ] Sistema de denúncias anônimas.
+- [ ] Sistema de denúncias anônimas.
 
--[ ] Gerar feedback sobre o aluno.
+- [ ] Gerar feedback sobre o aluno.
 
 
 ## Equipe
