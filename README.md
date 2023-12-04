@@ -63,50 +63,32 @@ Insegurança em denunciar casos de violência (falta de anonimato).
 
 
 ## Equipe
-**Membro 1 - Otávio Barbosa Siqueira**
-
-*Dev-Ops e Segurança* 
-
-*E-mail:*  obs@ic.ufal.br
-
+**Membro 1 - Otávio Barbosa Siqueira**<br />
+*Dev-Ops e Segurança*<br />
+*E-mail:*  obs@ic.ufal.br<br />
 *Github:* https://github.com/otavio4000
 
-**Membro 2 - Bruno Luiz Florentino Silva**
-
-*Desenvolvedor Full-Stack*
-
-*E-mail:* blfs@ic.ufal.br
-
+**Membro 2 - Bruno Luiz Florentino Silva**<br />
+*Desenvolvedor Full-Stack*<br />
+*E-mail:* blfs@ic.ufal.br<br />
 *Github:* https://github.com/Brunot101
 
-**Membro 3 - Wallace Lins**
-
-*Desenvolvedor Back-end*
-
-*E-mail wlcs@ic.ufal.br*
-
+**Membro 3 - Wallace Lins**<br />
+*Desenvolvedor Back-end*<br />
+*E-mail wlcs@ic.ufal.br*<br />
 *Github:* https://github.com/waleiss
 
-**Membro 4 - Maria Beatriz Motta**
+**Membro 4 - Maria Beatriz Motta**<br />
+*Desenvolvedora Front-end*<br />
+*E-mail:* mbmbv@ic.ufal.br<br />
+*Github:* https://github.com/beatrizmotta<br />
 
-*Desenvolvedora Front-end*
-
-*E-mail:* mbmbv@ic.ufal.br
-
-*Github:* https://github.com/beatrizmotta
-
-**Membro 5 - Elyssana Maria**
-
-*Desenvolvedora Front-end*
-
-*E-mail:* elyssana.mso@gmail.com
-
+**Membro 5 - Elyssana Maria**<br />
+*Desenvolvedora Front-end*<br />
+*E-mail:* elyssana.mso@gmail.com<br />
 *Github:* https://github.com/Elyssana
 
-**Membro 6 - Ana Carolina**
-
-*Desenvolvedora Front-end e UX/UI*
-
-*E-mail:* acng@ic.ufal.br
-
+**Membro 6 - Ana Carolina**<br />
+*Desenvolvedora Front-end e UX/UI*<br />
+*E-mail:* acng@ic.ufal.br<br />
 *Github:* https://github.com/carolnesso
