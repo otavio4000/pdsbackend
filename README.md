@@ -34,32 +34,25 @@ Insegurança em denunciar casos de violência (falta de anonimato).
 *Espera com o app ter maneiras de obter acompanhamento psicopedagógico.* 
 
 ## Marcos
-### Marco 1
-
-#### Funcionalidades
-- [ ] Sistema de login.
-
-- [ ] Registrar um aluno.
-
-- [ ] Modificar informações de um aluno.
-
-- [ ] Acompanhar informações do aluno.
-
-- [ ] Registrar observações.
-
-### Marco 2
-
-#### Funcionalidades
-- [ ] Warnings para ações indevidas (faltas recorrentes, situação de briga etc).
-
-- [ ] Sistema de score.
-
-### Marco 3
+### Marco 1 - Para o Marco 1 resolveremos o problema de denunciar casos de violência dos vários tipos (de forma anônima)
 
 #### Funcionalidades
 - [ ] Sistema de denúncias anônimas.
+- Formulário de registro de ocorrência
+  -  Campo de texto para registrar o ocorrido;
+  -  Check box para definir o tipo violência (assim como o ambiente que ocorreu);
+  -  Portal/dashboard para acompanhar as denúncias.
+- Login para coordenação
+  - Crud;
+  - Comunicar os pais;
+  - "Encaminhamento"
+### Marco 2 - Para o Marco 2 iremos resolver a falta de um espaço virtual capaz de fornecer uma maior aproximação dos alunos com seus responsáveis (notificações de ausência, desempenho escolar etc)
 
-- [ ] Gerar feedback sobre o aluno.
+#### Funcionalidades
+- [ ] Login para os pais
+  -  Crud;
+  -  Receber notificações da coordenação;
+  -  Gerar relátorio de ocorrências do aluno
 
 
 ## Equipe
