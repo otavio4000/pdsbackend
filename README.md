@@ -42,16 +42,14 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
   -  Campo de texto para registrar o ocorrido;
   -  Check box para definir o tipo violência (assim como o ambiente que ocorreu);
   
-- Login para coordenação
-  - Crud;
+- Espaço para interação da coordenação
   - Notificações para comunicar os pais;
   - Portal/dashboard para acompanhar as denúncias;
   - "Encaminhamento".
 ### Marco 2 - Para o Marco 2 iremos resolver a falta de um espaço virtual capaz de fornecer uma maior aproximação dos alunos com seus responsáveis (notificações de ausência, desempenho escolar etc)
 
 #### Funcionalidades
-- [ ] Login para os pais
-  -  Crud;
+- [ ] Espaço para interação dos pais
   -  Receber notificações da coordenação;
   -  Gerar relátorio de ocorrências do aluno.
 
