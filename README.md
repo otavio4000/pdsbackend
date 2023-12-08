@@ -48,7 +48,6 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
   
 - Espaço para interação da coordenação
   - Portal/dashboard para acompanhar as denúncias;
-  - "Encaminhamento".
 
 ### Marco 2 - Para o Marco 2 iremos resolver a falta de um espaço virtual capaz de fornecer uma maior aproximação dos alunos com seus responsáveis (notificações de ausência, desempenho escolar etc)
 
