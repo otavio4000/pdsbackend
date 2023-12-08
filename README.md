@@ -33,6 +33,10 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
 *Aluno que por algum motivo desconhecido oprime emocionalmente, fisicamente ou mentalmente outros alunos. Podem ser um grupo de agressores ou apenas um e o grupo acaba por acompanhar a ação do agressor. É uma pessoa ou com problemas em casa, ou problemas comportamentais ou mentais. Uma pessoa que necessita de acompanhamento psicopedagógico.*
 *Espera com o app ter maneiras de obter acompanhamento psicopedagógico.* 
 
+### Persona 5 : Administração da Escola 
+*Profissionais da escola que estão em contato direto com os alunos, e são os responsáveis por gerenciar os processos e situação dos alunos, além de entrar em contato com os responsáveis dos alunos que estão sendo acompanhados.*
+*Espera com o app ter meios de realizar o gerenciamento do acompanhamento dos alunos e dos problemas e solução dos problemas.*
+
 ## Marcos
 ### Marco 1 - Para o Marco 1 resolveremos o problema de denunciar casos de violência dos vários tipos (de forma anônima)
 
@@ -43,9 +47,9 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
   -  Check box para definir o tipo violência (assim como o ambiente que ocorreu);
   
 - Espaço para interação da coordenação
-  - Notificações para comunicar os pais;
   - Portal/dashboard para acompanhar as denúncias;
   - "Encaminhamento".
+
 ### Marco 2 - Para o Marco 2 iremos resolver a falta de um espaço virtual capaz de fornecer uma maior aproximação dos alunos com seus responsáveis (notificações de ausência, desempenho escolar etc)
 
 #### Funcionalidades
@@ -54,13 +58,20 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
   -  Gerar relátorio de ocorrências do aluno.
      
 
-### Marco ? - Para o Marco ? iremos estabelecer as métricas para verificar se de fato o problema está sendo resolvido
+### Marco 3 - Para o Marco 3 iremos resolver a identificação, encaminhamento e ajuda dos alunos problemáticos (persona 4)
+
+#### Funcionalidades
+- [ ] Criação do perfil do estudante, incluindo informações sobre seu histórico acadêmico, faltas recorrentes, observações sobre o comportamento social,contato com substâncias ilícitas, situação familiar, engajamento da família com o aluno. 
+- Possibilidade do próprio aluno agressor buscar ajuda.
+- Encaminhamento: "Barra" de acompanhamento da situação atual do estudante
+- Ideia de Marcos: Inteligencia Emocional, poderia direcionar o conhecimento de inteligencia emocional por meio de encaminhamento
+
+### Marco 4 - Para o Marco 4 iremos estabelecer as métricas para verificar se de fato o problema está sendo resolvido
 
 #### Funcionalidades
 - [ ] Espaço para verificar estatísticas dos casos de violência
   -  Gráficos explicativos
   -  Comparações com anos anteriores
-
 
 ## Equipe
 **Membro 1 - Otávio Barbosa Siqueira**<br />
