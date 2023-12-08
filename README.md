@@ -52,6 +52,14 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
 - [ ] Espaço para interação dos pais
   -  Receber notificações da coordenação;
   -  Gerar relátorio de ocorrências do aluno.
+     
+
+### Marco ? - Para o Marco ? iremos estabelecer as métricas para verificar se de fato o problema está sendo resolvido
+
+#### Funcionalidades
+- [ ] Espaço para verificar estatísticas dos casos de violência
+  -  Gráficos explicativos
+  -  Comparações com anos anteriores
 
 
 ## Equipe
