@@ -34,7 +34,7 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
 *Espera com o app ter maneiras de obter acompanhamento psicopedagógico.* 
 
 ### Persona 5 : Administração da Escola 
-*Profissionais da escola que estão em contato direto com os alunos, e são os responsáveis por gerenciar os processos e situação dos alunos, além de entrar em contato com os responsáveis dos alunos que estão sendo acompanhados.*
+*Profissionais da escola (professores, coordenadores) que estão em contato direto com os alunos, e são os responsáveis por gerenciar os processos e situação dos alunos, além de entrar em contato com os responsáveis dos alunos que estão sendo acompanhados.*
 *Espera com o app ter meios de realizar o gerenciamento do acompanhamento dos alunos e dos problemas e solução dos problemas.*
 
 ## Marcos
@@ -61,10 +61,9 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
 ### Marco 3 - Para o Marco 3 iremos resolver a identificação, encaminhamento e ajuda dos alunos problemáticos (persona 4)
 
 #### Funcionalidades
-- [ ] Criação do perfil do estudante, incluindo informações sobre seu histórico acadêmico, faltas recorrentes, observações sobre o comportamento social,contato com substâncias ilícitas, situação familiar, engajamento da família com o aluno. 
+- [ ] Criação do perfil do estudante, incluindo informações sobre seu histórico acadêmico, faltas recorrentes, observações sobre o comportamento social,contato com substâncias ilícitas, situação familiar, engajamento da família com o aluno, etc.
 - Possibilidade do próprio aluno agressor buscar ajuda.
-- Encaminhamento: "Barra" de acompanhamento da situação atual do estudante
-- Ideia de Marcos: Inteligencia Emocional, poderia direcionar o conhecimento de inteligencia emocional por meio de encaminhamento
+- Encaminhamento psicopedagógico: "Barra" de acompanhamento da situação atual do estudante
 
 ### Marco 4 - Para o Marco 4 iremos estabelecer as métricas para verificar se de fato o problema está sendo resolvido
 
