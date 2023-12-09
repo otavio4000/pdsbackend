@@ -18,7 +18,7 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
 ## Personas
 
 ### Persona 1 : Pessoa que sofreu agressão
-*Um aluno(a) que sofreu algum tipo de agressão, seja ela verbal, emocional ou física. É uma pessoa que se encontra abalada, com medo de conversar com alguém ou por ameaça, ou por receio de sofrer retaliação. Caso as agressões continuem, é uma pessoa que pode vir a perder o desempenho na escola, parar de frequentar a escola ou até mesmo tirar a própria vida devido às agressões sofridas*
+*Um aluno(a) que sofreu algum tipo de agressão, seja ela verbal, emocional ou física. É uma pessoa que se encontra abalada, com medo de conversar com alguém ou por ameaça, ou por receio de sofrer retaliação. Caso as agressões continuem, é uma pessoa que pode vir a perder o desempenho na escola, parar de frequentar a escola ou até mesmo tirar a própria vida devido às agressões sofridas.*
 *Espera com o app conseguir denunciar a agressão que sofreu para que seja tratada de maneira eficiente pelas autoridades responsáveis da escola de forma a deixar o ambiente escolar mais seguro.* 
 
 ### Persona 2 : Pessoa que percebeu/reconheceu o ato de agressão
