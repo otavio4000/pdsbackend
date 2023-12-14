@@ -88,7 +88,7 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
 *Github:* https://github.com/waleiss
 
 **Membro 4 - Maria Beatriz Motta**<br />
-*Desenvolvedora Front-end*<br />
+*Desenvolvedora Full-Stack*<br />
 *E-mail:* mbmbv@ic.ufal.br<br />
 *Github:* https://github.com/beatrizmotta<br />
 
