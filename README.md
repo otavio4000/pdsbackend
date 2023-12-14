@@ -1,6 +1,6 @@
 # pds_2023.2
 
-# Projeto
+# VigiAluno
 Para as escolas, onde o crescimento da violência é evidente, o sistema de acompanhamento de alunos visa modificar a maneira tradicional de auxiliar os discentes do ensino médio. Permitindo que os coordenadores/professores façam feedbacks, registrem condições econômicas e sociais dos alunos, e também que os próprios alunos possam realizar denúncias de forma anônima.
 
 ### Problemas
