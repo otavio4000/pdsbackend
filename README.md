@@ -70,6 +70,9 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
 - [ ] Espaço para verificar estatísticas dos casos de violência
   -  Gráficos explicativos
   -  Comparações com anos anteriores
+     
+## Documento de especificação do back-end
+[Clique Aqui](https://docs.google.com/document/d/1MDYCEES3LkrkPGxtbXDMqI7HHoWX55l3hsgK-7SUOl8/edit?usp=sharing)
 
 ## Equipe
 **Membro 1 - Otávio Barbosa Siqueira**<br />
