@@ -5,6 +5,6 @@ from .serializers import DenunciaSerializer
 from rest_framework import generics 
 
 
-class DenunciaListView(generics.ListCreateAPIView):
+class DenunciaCreateListView(generics.ListCreateAPIView):
     queryset = Denuncia.objects.all()
     serializer_class = DenunciaSerializer
