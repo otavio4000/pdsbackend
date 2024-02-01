@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from denuncia.models import Denuncia
+from .models import Denuncia
 
 
 class DenunciaSerializer(serializers.ModelSerializer):
