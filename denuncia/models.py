@@ -9,5 +9,4 @@ class Denuncia(models.Model):
     assedio =  models.CharField(max_length = 10)
     recorrencia = models.CharField(max_length = 50)
     data_ocorrido = models.DateTimeField()
-    
 
