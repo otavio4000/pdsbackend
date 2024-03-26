@@ -16,8 +16,21 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
+from django.conf.urls.static import static
+from django.conf import settings
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('api.urls'))
-]
+    
+    path('api/v1/', include('authentication.urls')),
+    path('api/v1/', include('denuncia.urls')),
+    path('api/v1/', include('verification.urls')),
+    path('api/v1/', include('responsaveis.urls')),
+    path('api/v1/', include('medida_tomada.urls')),
+    path('api/v1/', include('alunos.urls')),
+    path('api/v1/', include('notification.urls')),
+    path('api/v1/password_reset/', include('django_rest_passwordreset.urls', namespace='password_reset')),
+    
+]+static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)
+
+urlpatterns += staticfiles_urlpatterns()
