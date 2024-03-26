@@ -74,6 +74,10 @@ Para as escolas, onde o crescimento da violência é evidente, o sistema de acom
 ## Documento de especificação do back-end
 [Clique Aqui](https://docs.google.com/document/d/1MDYCEES3LkrkPGxtbXDMqI7HHoWX55l3hsgK-7SUOl8/edit?usp=sharing)
 
+## Link do deploy da aplicação
+- Frontend: [Clique Aqui](https://pds-2023-2-two.vercel.app/)
+- Backend: - Frontend: [Clique Aqui](https://backendd-vk3y.onrender.com)
+
 ## Equipe
 **Membro 1 - Otávio Barbosa Siqueira**<br />
 *Dev-Ops e Segurança*<br />
